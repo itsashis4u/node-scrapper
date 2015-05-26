@@ -20,7 +20,7 @@
   	"express": "latest",
   	"request": "latest",
   	"cheerio": "latest"
-  	},
+  	},	
   "bugs": {
     "url": "https://github.com/itsashis4u/node-scrapper/issues"
   },
